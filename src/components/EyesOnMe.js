@@ -4,9 +4,7 @@ class EyesOnMe extends Component
 {
   render() 
   {
-    return (
-      
-    )
+
   }
 }
 
