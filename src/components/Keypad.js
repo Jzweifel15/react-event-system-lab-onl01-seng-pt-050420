@@ -4,9 +4,7 @@ class Keypad extends Component
 {
   render()
   {
-    return (
-      
-    )
+
   }
 }
 
